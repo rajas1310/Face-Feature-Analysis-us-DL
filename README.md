@@ -1,7 +1,7 @@
 # Face-Feature-Analysis-using-DL
 This was my project during the research internship in <i>Computational Liguistics Lab, PICT</i>.
 
-#### Check "Documents/Internship-Report" for the details regarding the internship and my project.
+#### Check <strong>"Documents/Internship-Report"<strong> for the details regarding the internship and my project.
 
 #### Brief:-
 * This project is purely based on Computer Vision.
