@@ -1,5 +1,5 @@
 # Face-Feature-Analysis-using-DL
-This was my work during the research internship at <i>Computational Liguistics Lab, PICT</i> in my junior year.
+This was my work during the research internship at Computational Liguistics Lab, PICT in my junior year.
 
 #### Check <strong>"Documents/Internship-Report"<strong> for the details regarding the internship and my project.
 
